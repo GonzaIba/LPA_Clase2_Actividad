@@ -28,13 +28,47 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.txtCuil = new System.Windows.Forms.TextBox();
+            this.btnValidar = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // txtCuil
+            // 
+            this.txtCuil.Location = new System.Drawing.Point(124, 58);
+            this.txtCuil.Multiline = true;
+            this.txtCuil.Name = "txtCuil";
+            this.txtCuil.Size = new System.Drawing.Size(161, 24);
+            this.txtCuil.TabIndex = 0;
+            this.txtCuil.TextChanged += new System.EventHandler(this.txtCuil_TextChanged);
+            // 
+            // btnValidar
+            // 
+            this.btnValidar.Location = new System.Drawing.Point(151, 88);
+            this.btnValidar.Name = "btnValidar";
+            this.btnValidar.Size = new System.Drawing.Size(113, 46);
+            this.btnValidar.TabIndex = 1;
+            this.btnValidar.Text = "Validar";
+            this.btnValidar.UseVisualStyleBackColor = true;
+            this.btnValidar.Click += new System.EventHandler(this.btnValidar_Click);
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.ClientSize = new System.Drawing.Size(426, 163);
+            this.Controls.Add(this.btnValidar);
+            this.Controls.Add(this.txtCuil);
+            this.Name = "Form1";
+            this.Text = "ValidarCuit";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
         }
 
         #endregion
+
+        private System.Windows.Forms.TextBox txtCuil;
+        private System.Windows.Forms.Button btnValidar;
     }
 }
 

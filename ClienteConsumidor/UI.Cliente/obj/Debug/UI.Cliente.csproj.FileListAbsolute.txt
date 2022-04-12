@@ -1,0 +1,11 @@
+D:\Repositorios-SmartGit\LPA_Clase2_Actividad\ClienteConsumidor\UI.Cliente\obj\Debug\UI.Cliente.csproj.AssemblyReference.cache
+D:\Repositorios-SmartGit\LPA_Clase2_Actividad\ClienteConsumidor\UI.Cliente\obj\Debug\UI.Cliente.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios-SmartGit\LPA_Clase2_Actividad\ClienteConsumidor\UI.Cliente\obj\Debug\UI.Cliente.Form1.resources
+D:\Repositorios-SmartGit\LPA_Clase2_Actividad\ClienteConsumidor\UI.Cliente\obj\Debug\UI.Cliente.Properties.Resources.resources
+D:\Repositorios-SmartGit\LPA_Clase2_Actividad\ClienteConsumidor\UI.Cliente\obj\Debug\UI.Cliente.csproj.GenerateResource.cache
+D:\Repositorios-SmartGit\LPA_Clase2_Actividad\ClienteConsumidor\UI.Cliente\obj\Debug\UI.Cliente.csproj.CoreCompileInputs.cache
+D:\Repositorios-SmartGit\LPA_Clase2_Actividad\ClienteConsumidor\UI.Cliente\bin\Debug\UI.Cliente.exe.config
+D:\Repositorios-SmartGit\LPA_Clase2_Actividad\ClienteConsumidor\UI.Cliente\bin\Debug\UI.Cliente.exe
+D:\Repositorios-SmartGit\LPA_Clase2_Actividad\ClienteConsumidor\UI.Cliente\bin\Debug\UI.Cliente.pdb
+D:\Repositorios-SmartGit\LPA_Clase2_Actividad\ClienteConsumidor\UI.Cliente\obj\Debug\UI.Cliente.exe
+D:\Repositorios-SmartGit\LPA_Clase2_Actividad\ClienteConsumidor\UI.Cliente\obj\Debug\UI.Cliente.pdb
